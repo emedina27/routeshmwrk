@@ -1,11 +1,9 @@
-import React, { Component } from 'react';
-import '../CSS/Sleepy.css';
+import React, { Component } from "react";
+import "../CSS/Sleepy.css";
 
 class Sleepy extends Component {
   render() {
-    return (
-      <div id="sleepy"></div>
-    );
+    return <div id="sleepy" />;
   }
 }
 

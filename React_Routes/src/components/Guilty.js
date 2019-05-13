@@ -1,11 +1,9 @@
-import React, { Component } from 'react';
-import '../CSS/Guilty.css';
+import React, { Component } from "react";
+import "../CSS/Guilty.css";
 
 class Guilty extends Component {
   render() {
-    return (
-      <div id="guilty"></div>
-    );
+    return <div id="guilty"> </div>;
   }
 }
 
